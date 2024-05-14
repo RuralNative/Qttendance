@@ -6,13 +6,13 @@ Write-Host "--------------------------------------------------------------------
 Start-Sleep -Seconds 3
 
 # Start XAMPP Control Panel
-Start-Process "C:\xampp\xampp-control.exe"
-Write-Host "DO NOT CLOSE | XAMPP Control Starting"
+Write-Host "DO NOT CLOSE OR PRESS ANY KEY | XAMPP Server/Module Starting"
 Write-Host "During startup, several text scripts will show on-screen."
 Write-Host "----------------------------------------------------------------------------"
 Start-Sleep -Seconds 3
 
 # Start necessary modules (Apache and MySQL)
+Start-Process "C:\xampp\apache_stop.bat" -NoNewWindow
 Start-Process "C:\xampp\apache_start.bat" -NoNewWindow
 Start-Process "C:\xampp\mysql_start.bat" -NoNewWindow
 
@@ -22,10 +22,11 @@ Write-Host "--------------------------------------------------------------------
 
 # Open a new browser window and navigate to localhost/qttendance
 Start-Process "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" "http://localhost/qttendance"
-Write-Host "Qttendance Successfully Opened."
-Write-Host "Current window will close after 5 seconds. If none happens, you may now SAFELY CLOSE this window"
+Write-Host "Qttendance Command Executed."
+Write-Host "If web application and/or its operations failed to start or function, contact IT Support."
+Write-Host "Current window will close after 30 seconds. If none happens, you may now SAFELY CLOSE this window."
 
 # Attempt to close a PowerShell window
-Start-Sleep -Seconds 5
+Start-Sleep -Seconds 30
 $process = Get-Process -Name powershell
 $process.CloseMainWindow()
