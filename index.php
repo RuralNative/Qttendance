@@ -1,6 +1,6 @@
 <!-- DO NOT MODIFY (START) -->
 <?php session_start(); ?>
-<?php include 'header.php'; ?>
+<?php include 'components/header.php'; ?>
 <body class="hold-transition register-page">
 <!-- DO NOT MODIFY (END) -->
 
@@ -27,7 +27,7 @@
             </select>
           </div>
           <!-- QR Scanner COMPONENT -->
-          <?php include 'qr_scanner.php' ?>
+          <?php include 'components/qr_scanner.php' ?>
           <!-- Student ID COMPONENT -->
           <br/>
           <div class="form-group has-feedback">
@@ -80,7 +80,7 @@
           var attendance = $(this).serialize();
           $.ajax({
             type: 'POST',
-            url: 'attendance.php',
+            url: 'components/attendance.php',
             data: attendance,
             dataType: 'json',
             success: function(response){
