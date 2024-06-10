@@ -6,15 +6,11 @@
 
   <!-- PAGE SCREEN (START) -->
   <div class="login-box">
-      <!-- LOGO COMPONENT -->
-      <div class="login-logos">
-        <img src="images/cpsu_logo.webp" alt="CPSU Logo">
-      </div>
     
       <!-- FORM CONTAINER (START) -->  
       <div class="login-box-body">
         <h4 class="login-box-msg" style="font-weight: bold; color: #3D6245; font-size: 20px;">
-          <strong>CPSU LIBRARY</strong> <i>Attendance</i>
+          <strong>Qttendance</strong> <i>System</i>
         </h4>
 
         <!-- FORM COMPONENT (START) -->
@@ -41,11 +37,6 @@
           </div>
         </form>
         <!-- FORM COMPONENT (END) -->
-
-        <br>
-        <h4 class="login-box-msg" style="color: #3D6245; font-size: 15px;">
-          For software problems/troubleshooting, contact <strong>John Berlin Leonor</strong>
-        </h4>
       </div>
       <!-- FORM CONTAINER (END) -->
 
