@@ -9,8 +9,7 @@
         </div>
         <!-- USER PANEL Title Description -->
         <div class="pull-left info">
-          <p><b>CPSU - Moises Padilla</b></p>
-          <p>Library</p>
+          <p><b>Qttendance</b></p>
         </div>
       </div>
 

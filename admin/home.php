@@ -1,6 +1,6 @@
 <?php include 'includes/session.php'; ?>
 <?php 
-  include '../timezone.php'; 
+  include '../global/timezone.php'; 
   $today = date('Y-m-d');
   $year = date('Y');
   if(isset($_GET['year'])){

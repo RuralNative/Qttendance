@@ -2,10 +2,10 @@
     <!-- PAGE TITLE (LOGO) -->
     <a href="home.php" class="logo">
       <span class="logo-mini">
-        <b>CPSU</b>Library
+        <b>Qttendance</b> System
       </span>
       <span class="logo-lg">
-        <b>CPSU</b> LIBRARY
+        <b>Qttendance</b> SYSTEM
       </span>
     </a>
     <!-- Header Navbar: style can be found in header.less -->
@@ -21,7 +21,7 @@
           <li class="dropdown user user-menu">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown">
               <img src='../images/cpsu_logo.webp' class="user-image" alt="User Image">
-              <span class="hidden-xs">CPSU - Moises Padilla Library</span>
+              <span class="hidden-xs">Administrator</span>
             </a>
             <ul class="dropdown-menu">
               <!-- User image -->
@@ -29,8 +29,8 @@
                 <img src='../images/cpsu_logo.webp' class="img-circle" alt="User Image">
 
                 <p>
-                  Library Admin
-                  <small>Official Library Management Account</small>
+                  System Admin
+                  <small>Administrator Account</small>
                 </p>
               </li>
               <li class="user-footer">
