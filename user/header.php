@@ -6,8 +6,8 @@
   	<title>Library Attendance System</title>
   	<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
 	<?php include 'scripts.php' ?>
-  	<link rel="stylesheet" href="dist/css/AdminLTE.min.css">
-    <link rel="stylesheet" href="dist/css/main_style.css">
+  	<link rel="stylesheet" href="global/dist/css/AdminLTE.min.css">
+    <link rel="stylesheet" href="global/dist/css/main_style.css">
 
   	<style type="text/css">
   		.mt20{

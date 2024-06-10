@@ -1,5 +1,5 @@
 <!-- HTML5 - QRCODE API -->
-<script src="scripts/html5-qrcode.js"></script>
+<script src="global/scripts/html5-qrcode.js"></script>
 
 <div id="qrModal">
     <div class="qr-scanner-body">
