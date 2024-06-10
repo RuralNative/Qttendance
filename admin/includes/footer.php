@@ -7,9 +7,9 @@
         </a> 
         | 
         <a href="https://www.linkedin.com/in/johnberlinleonor/" target="_blank">
-          John Berlin Leonor
+          RuralNative (John Berlin Leonor)
         </a>
       </b>
     </div>
-    <strong>Copyright &copy; 2023  |  CPSU - Moises Padilla Library Attendance System </strong>
+    <strong>Open-Source Project Not for Commercial Use  | Qttendance System </strong>
 </footer>
