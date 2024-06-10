@@ -4,7 +4,7 @@ body {
 }
 
 .register-page {
-	background-image: url('../../images/cpsu_bg.jpg');
+	background-color: #1b3f23;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
     background-size: cover;
