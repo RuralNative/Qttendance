@@ -4,7 +4,13 @@
 
 ## Sample
 
+**Library Visitor UI Sample**
 
+![Library Visitor UI](/miscellaneous/media/1.PNG)
+
+**Library Admin UI Sample**
+
+![Library Admin UI](/miscellaneous/media/2.PNG)
 
 ## Overview
 
