@@ -1,10 +1,14 @@
-# Library Attendance Monitoring System
+# Qttendance
 
 **Central Philippines State University - Moises Padilla Campus**
 
+## Sample
+
+
+
 ## Overview
 
-The Library Attendance Monitoring System is designed for the Central Philippines State University - Moises Padilla Campus to streamline the attendance tracking process in the library. Developed by the University's local IT development team - Charlie Pelingon and John Berlin Leonor - this system ensures the task is achieved in the most convenient manner for both the Librarian and the students by the implementation of several features included in the system as listed below.
+Qttendance is designed initially for the Central Philippines State University - Moises Padilla Campus to streamline the attendance tracking process in the library. Developed by the University's local IT developer, John Berlin Leonor - this system ensures the task is achieved in the most convenient manner for both the Librarian and the students by the implementation of several features included in the system as listed below.
 
 ## Features
 
@@ -20,18 +24,10 @@ The Library Attendance Monitoring System is designed for the Central Philippines
 - Database developed with SQL.
 - Server hosted locally with XAMPP.
 
-## Installation Instructions
-
-_PENDING_
-
-## License
-
-This project is licensed under the MIT License.
-
 ## Contact
 
 For any questions or inquiries, please contact John Berlin at my work email, jbleonor@outlook.com.
 
 ## Acknowledgments
 
-Special thanks to Sir Charlie Pelingon, our faculty instructor responsible for the original codebase, and my alma matter Central Philippines State University - Moises Padilla for the opportunity given to develop my personal skills with this comprehensive project.
+Special thanks to Sir Charlie Pelingon, our faculty instructor for his expertise and guidance, and my alma matter Central Philippines State University - Moises Padilla for the opportunity given to develop my personal skills with this comprehensive project.
